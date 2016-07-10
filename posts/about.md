@@ -38,7 +38,7 @@ __除非特殊说明__，原创文章采用 [CC Attribution-ShareAlike 4.0 Inter
 
 ### 主题
 
-本博客目前使用的主题为移植自 WordPress 主题 [Diaspora](https://github.com/LoeiFy/Diaspora) 的 [ghost-diaspora](https://github.com/PeterCxy/ghost-diaspora)。
+本博客目前使用的主题为移植自 WordPress 主题 [Diaspora](https://github.com/LoeiFy/Diaspora) 的 [typeblog-diaspora](https://github.com/PeterCxy/typeblog-diaspora)。
 
 ### 关于评论
 
