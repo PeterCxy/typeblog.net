@@ -1,0 +1,3 @@
+[submodule "deps/Typeblog"]
+	path = deps/Typeblog
+	url = https://github.com/PeterCxy/Typeblog
