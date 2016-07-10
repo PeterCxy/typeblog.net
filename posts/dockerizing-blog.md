@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "博客Docker化并迁移到CaaS",
   "url": "dockerizing-blog",

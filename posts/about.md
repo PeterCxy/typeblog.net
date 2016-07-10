@@ -1,9 +1,10 @@
-```
+```json
 {
   "title": "About",
   "url": "about",
   "date": "2016-01-10",
-  "parser": "Markdown"
+  "parser": "Markdown",
+  "hide": true
 }
 ```
 

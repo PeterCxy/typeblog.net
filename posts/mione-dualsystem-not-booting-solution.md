@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "小米1自编译ROM系统二启动和data挂载解决方案",
   "url": "mione-dualsystem-not-booting-solution",

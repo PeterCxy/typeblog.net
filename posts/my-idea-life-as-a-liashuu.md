@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "我理想中的现充生活",
   "url": "my-idea-life-as-a-liashuu",

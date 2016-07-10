@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "小记触摸版CWM Recovery的制作",
   "url": "record-making-cwm-touch",

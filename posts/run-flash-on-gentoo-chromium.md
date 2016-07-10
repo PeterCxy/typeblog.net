@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "在Gentoo的Chromium浏览器上运行Flash",
   "url": "run-flash-on-gentoo-chromium",

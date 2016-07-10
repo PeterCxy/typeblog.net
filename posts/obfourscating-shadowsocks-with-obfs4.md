@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "今天，你混淆了吗",
   "url": "obfourscating-shadowsocks-with-obfs4",

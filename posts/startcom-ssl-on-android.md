@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "解决StartCom的SSL证书在Android上不被信任的问题",
   "url": "startcom-ssl-on-android",
@@ -33,4 +33,4 @@ cat typeblog.net.crt ca-bundle.crt > typeblog.net.bundle.crt
 
 刷新服务器配置以后，在手机上已经可以正常访问了:
 
-![ssl](/content/images/2016/01/ssl.png)
+![ssl](https://o92gap2xr.qnssl.com/typeblog/content/images/2016/01/ssl.png)

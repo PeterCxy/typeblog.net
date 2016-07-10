@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "FUCK THE THIEF!",
   "url": "fuck-the-thief",

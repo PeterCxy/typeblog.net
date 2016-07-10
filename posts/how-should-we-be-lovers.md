@@ -1,9 +1,11 @@
-```
+```json
 {
   "title": "我给你买辣条，我们在一起好吗？",
   "url": "how-should-we-be-lovers",
-  "date": "2016-06-21",
-  "parser": "Markdown"
+  "date": "2016-06-22",
+  "parser": "Markdown",
+  "cover": "https://o92gap2xr.qnssl.com/typeblog/content/images/2016/06/lovers-1.jpg",
+  "tags": ["Thoughts"]
 }
 ```
 

@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "破解电信Modem F460的超级用户权限并设置自动拨号",
   "url": "hack-chinanet-modem-f460",

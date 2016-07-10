@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "米1/1s Recovery截图教程",
   "url": "mione-recovery-screenshot",

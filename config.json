@@ -2,29 +2,52 @@
   "title": "Typeblog",
   "description": "Thoughtcrime does not entail death, thoughtcrime IS death",
   "url": "https://typeblog.net",
-  "cover": "https://o92gap2xr.qnssl.com/typeblog/content/images/2016/05/Internet2.jpg",
+  "template_arguments": {
+    "cover": "https://o92gap2xr.qnssl.com/typeblog/content/images/2016/06/photo-1423592707957-3b212afa6733.jpg",
+    "disqus_username": "petercxy",
+    "social": [
+      {
+        "url": "https://twitter.com/PeterCxy",
+        "icon": "twitter"
+      },
+      {
+        "url": "https://github.com/PeterCxy",
+        "icon": "github-circle"
+      }
+    ],
+    "navigation": [
+      {
+        "label": "About",
+        "url": "/about"
+      },
+      {
+        "label": "Links",
+        "url": "/links"
+      }
+    ]
+  },
   "plugins": [
+    "plugins/chinese-cdn",
     "npm://typeblog-highlight",
     "npm://typeblog-markdown"
   ],
   "posts": [
     "posts/how-should-we-be-lovers.md",
+    "posts/ano-hana.md",
     "posts/thought-on-childrens-day.md",
     "posts/letsencrypt-sh-plus-nginx.md",
     "posts/we-need-not-sympathy.md",
+    "posts/why-do-i-insist-on-blogging.md",
     "posts/sorry-but-we-are-shengmu.md",
     "posts/how-did-i-share-aliyun.md",
     "posts/the-betrayed-security.md",
     "posts/the-beginning-of-the-end.md",
     "posts/people-without-wings.md",
     "posts/this-society.md",
-    "posts/ano-hana.md",
     "posts/add-cjk-word-count-to-ghost.md",
     "posts/love-is-like-this.md",
     "posts/about-the-homeland.md",
     "posts/dockerizing-blog.md",
-    "posts/why-do-i-insist-on-blogging.md",
-    "posts/keyword-diary.md",
     "posts/hello-ghost.md",
     "posts/links.md",
     "posts/about.md",

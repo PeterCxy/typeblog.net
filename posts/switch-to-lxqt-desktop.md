@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "切换到LXQt桌面环境",
   "url": "switch-to-lxqt-desktop",

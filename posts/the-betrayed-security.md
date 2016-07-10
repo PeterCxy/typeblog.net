@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "被出卖的安全",
   "url": "the-betrayed-security",

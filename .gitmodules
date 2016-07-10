@@ -1,3 +1,6 @@
 [submodule "deps/Typeblog"]
 	path = deps/Typeblog
 	url = https://github.com/PeterCxy/Typeblog
+[submodule "deps/diaspora"]
+	path = deps/diaspora
+	url = https://github.com/PeterCxy/typeblog-diaspora

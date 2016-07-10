@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "在Android上运行Linux发行版",
   "url": "run-chrooted-linux-on-android",

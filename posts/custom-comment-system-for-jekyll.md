@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "给Jekyll静态博客扩展动态评论系统",
   "url": "custom-comment-system-for-jekyll",

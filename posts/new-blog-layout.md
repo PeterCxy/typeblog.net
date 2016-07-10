@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "Typeblog改版啦!",
   "url": "new-blog-layout",

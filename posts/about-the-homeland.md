@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "关于故乡",
   "url": "about-the-homeland",

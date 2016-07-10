@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "在OpenWRT上配置HE IPv6隧道的正确姿势",
   "url": "tunnelbroker-on-openwrt",

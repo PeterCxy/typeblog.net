@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "Telegram Bot API 折腾记",
   "url": "introduction-to-telegram-bot-api",

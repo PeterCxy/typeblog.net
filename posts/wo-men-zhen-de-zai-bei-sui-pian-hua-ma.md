@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "我们真的在被碎片化吗",
   "url": "wo-men-zhen-de-zai-bei-sui-pian-hua-ma",

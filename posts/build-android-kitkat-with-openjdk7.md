@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "OpenJDK7编译Android4.4小记",
   "url": "build-android-kitkat-with-openjdk7",

@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "Makefile构建Android App",
   "url": "build-android-app-with-makefile",

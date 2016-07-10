@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "关于我的 Moto X 2014 (victara)",
   "url": "all-about-moto-x-victara",

@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "有效降低DigitalOcean VPS高峰期丢包率",
   "url": "net-speeder-to-improve-shadowsocks",

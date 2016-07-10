@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "关于国产操作系统之我见",
   "url": "os-made-in-china",

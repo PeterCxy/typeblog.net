@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "获取Android网速的另一种方法",
   "url": "another-way-to-get-android-traffic-info",

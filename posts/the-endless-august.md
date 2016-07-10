@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "无尽的八月",
   "url": "the-endless-august",

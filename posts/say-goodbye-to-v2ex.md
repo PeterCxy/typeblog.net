@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "向V2EX说再见",
   "url": "say-goodbye-to-v2ex",

@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "使用git push命令提交到gerrit",
   "url": "use-git-push-to-push-to-gerrit",

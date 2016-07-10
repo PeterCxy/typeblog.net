@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "CyanogenMod再见",
   "url": "goodbye-cyanogenmod",

@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "迁移到GPT+UEFI",
   "url": "migrate-to-gpt-with-uefi",

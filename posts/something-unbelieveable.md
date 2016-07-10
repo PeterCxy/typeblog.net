@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "饕餮肉宴",
   "url": "something-unbelieveable",

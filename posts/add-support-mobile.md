@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "给博客添加手机浏览支持",
   "url": "add-support-mobile",

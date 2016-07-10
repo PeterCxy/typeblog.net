@@ -1,9 +1,10 @@
-```
+```json
 {
   "title": "使用UML合租VPS",
   "url": "how-did-i-share-aliyun",
   "date": "2016-03-13",
-  "parser": "Markdown"
+  "parser": "Markdown",
+  "tags": ["Linux", "Tech", "UML"]
 }
 ```
 

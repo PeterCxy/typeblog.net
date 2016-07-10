@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "心在哪里",
   "url": "where-is-people-s-heart",

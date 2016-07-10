@@ -1,9 +1,10 @@
-```
+```json
 {
   "title": "我为什么写博客",
   "url": "why-do-i-insist-on-blogging",
-  "date": "2016-01-17",
-  "parser": "Markdown"
+  "date": "2016-05-01",
+  "parser": "Markdown",
+  "cover": "https://o92gap2xr.qnssl.com/typeblog/content/images/2016/05/photo-1455390582262-044cdead277a.jpg"
 }
 ```
 

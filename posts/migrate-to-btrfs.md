@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "无聊迁移到Btrfs杂记",
   "url": "migrate-to-btrfs",

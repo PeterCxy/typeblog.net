@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "这就是爱",
   "url": "love-is-like-this",

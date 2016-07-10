@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "互相伤害的我们",
   "url": "hu-xiang-shang-hai-de-wo-men",

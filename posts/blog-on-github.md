@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "在GITHUB上写博客",
   "url": "blog-on-github",

@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "一路向北",
   "url": "heading-north-all-the-way",

@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "Hello, Ghost!",
   "url": "hello-ghost",

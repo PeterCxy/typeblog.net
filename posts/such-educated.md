@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "如此素质",
   "url": "such-educated",

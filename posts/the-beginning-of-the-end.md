@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "结束的开端",
   "url": "the-beginning-of-the-end",

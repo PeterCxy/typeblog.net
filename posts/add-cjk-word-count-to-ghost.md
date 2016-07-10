@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "给Ghost博客系统添加中文字数统计",
   "url": "add-cjk-word-count-to-ghost",

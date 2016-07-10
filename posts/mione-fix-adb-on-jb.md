@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "小米1原生4.1更换内核后usb调试问题的解决",
   "url": "mione-fix-adb-on-jb",

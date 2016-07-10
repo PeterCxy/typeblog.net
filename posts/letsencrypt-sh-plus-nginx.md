@@ -1,9 +1,11 @@
-```
+```json
 {
   "title": "使用 LetsEncrypt.sh + Nginx 实现SSL证书自动签发/续签",
   "url": "letsencrypt-sh-plus-nginx",
   "date": "2016-05-30",
-  "parser": "Markdown"
+  "parser": "Markdown",
+  "cover": "https://o92gap2xr.qnssl.com/typeblog/content/images/2016/05/Internet2.jpg",
+  "tags": ["Tech", "Linux", "Security"]
 }
 ```
 

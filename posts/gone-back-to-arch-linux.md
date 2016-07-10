@@ -1,4 +1,4 @@
-```
+```json
 {
   "title": "再次回到ArchLinux",
   "url": "gone-back-to-arch-linux",
