@@ -1,4 +1,4 @@
-{Plugin, dependencies} = require 'plugin'
+{Plugin, dependenciesm, configuration} = require 'plugin'
 {Promise} = dependencies
 {exec} = require 'child_process'
 
@@ -12,5 +12,6 @@ class GitHubWebHookPlugin extends Plugin
       exec 'git pull && git submodule update', (err, stdout, stderr) ->
         console.error err if err
         console.log stdout
+        configuration.reload()
 
 module.exports = new GitHubWebHookPlugin
