@@ -28,6 +28,7 @@
   },
   "plugins": [
     "plugins/chinese-cdn",
+    "plugins/github-webhook",
     "npm://typeblog-highlight",
     "npm://typeblog-markdown"
   ],
