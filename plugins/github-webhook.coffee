@@ -1,4 +1,4 @@
-{Plugin, dependenciesm, configuration} = require 'plugin'
+{Plugin, dependencies, configuration} = require 'plugin'
 {Promise} = dependencies
 {exec} = require 'child_process'
 
