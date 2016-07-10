@@ -19,11 +19,11 @@
     "navigation": [
       {
         "label": "About",
-        "url": "/about"
+        "url": "/about/"
       },
       {
         "label": "Links",
-        "url": "/links"
+        "url": "/links/"
       }
     ]
   },
