@@ -33,6 +33,7 @@
     "npm://typeblog-markdown"
   ],
   "posts": [
+    "posts/goodbye-ghost.md",
     "posts/how-should-we-be-lovers.md",
     "posts/ano-hana.md",
     "posts/thought-on-childrens-day.md",
