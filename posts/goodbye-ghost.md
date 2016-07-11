@@ -139,17 +139,15 @@ Module._resolveFilename = (request, parent) ->
 
 当载入文章时，程序将会调用插件系统的 `parsePost` 方法，这个方法只有一个参数，就是文件的原始内容。默认实现中，文章的头部应该包含文章的元数据。因为我自己多数时候使用 Markdown 格式写作，所以我提供了兼容 Markdown 的默认元数据格式，即类似这样
 
-```markdown
-\`\`\`json
-{
-  "title": "再见，Ghost",
-  "url": "goodbye-ghost",
-  "date": "2016-07-11",
-  "tags": ["Tech", "Blog"],
-  "parser": "Markdown"
-}
-\`\`\`
-```
+    ```json
+    {
+      "title": "再见，Ghost",
+      "url": "goodbye-ghost",
+      "date": "2016-07-11",
+      "tags": ["Tech", "Blog"],
+      "parser": "Markdown"
+    }
+    ```
 
 这样，在解析文章时，只需要找到这一个代码块，然后使用 `JSON.parse` 解析元数据即可。
 
