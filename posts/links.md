@@ -35,7 +35,7 @@
 
 * Nginx
 * Node.js
-* Ghost
+* [Typeblog](https://github.com/PeterCxy/Typeblog)
 * ArchLinux
 * Qiniu
 * Hosted on [Vultr](http://www.vultr.com/?ref=6907742) with ArchLinux
