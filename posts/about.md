@@ -10,7 +10,7 @@
 
 ### 诶，这家伙是谁？
 
-我是 `颠倒的阿卡林型次元`，曾用网名 `喝雪碧的虾`，在国外论坛上称为 `PeterCxy`。
+我是 `PeterCxy`，曾用网名 `颠倒的阿卡林型次元` 和 `喝雪碧的虾`。
 
 ### 好吧，你是干啥的？
 
@@ -64,26 +64,26 @@ Hash: SHA512
 
 I hereby claim that
 
-1. I am @颠倒的阿卡林型次元 on 新浪微博
+1. I am @Mogician_Reion on 新浪微博
 2. I am PeterCxy on keybase.io
-3. I have a PGP key whose fingerprint is 708D FB13 CBED 9AB3 9449 DBFB 41C0 4120 C297 B594 
+3. I have a PGP key whose fingerprint is 708D FB13 CBED 9AB3 9449 DBFB 41C0 4120 C297 B594
 -----BEGIN PGP SIGNATURE-----
 Version: Keybase OpenPGP v2.0.53
 Comment: https://keybase.io/crypto
 
-wsFcBAABCgAGBQJXbHlOAAoJEM9m0VPYhDWPDNsP/icBSu7F8eGRb7TFRnQSDr6F
-pqZbmYVxaiq4onOyqqpmTWsH1LBJpdXBeWizaPrX5IOmzSvNVdo+bnUqUhZz+O/g
-kXgxnck+nKD5ZLejclfvBDu12A1FoHAxIJRFnO6SqwYUT0Uz2nJcZ4EkwN7Mg89G
-cXG/lUED9mWk2C28US4z31OdBJZ1jxZ/59mz4uLsKOn/jdo4713RIzKDijrEpPw7
-YcxuyByx4mEdrZEc1BOn1iHLZ/nKqT2Kbam7UHQnXuBZhmqelAuUjeQmtEbT6Lq3
-Zfl8NwX2zEpjpOPgBlVI6Ei+YGBtgYG/fv7EZP53QkWiZG/zOzL1nt7XpDvfZQxS
-xp0+961MJuTv7Ewx1h6qelIzJbeBJD3SiaTH/y05AuP5nC03LEb1ir9J4vsi+jZk
-JPR+iMTVD2OWoWZGQgnxoI5ujvQLxrwPYDcRkJNi1KzZjd9w27Ckx11Nc+pi8LRS
-+D13gpa94A2ihb4GaQfk0pyozchymQWxZVJxjsL25yYr5h6QFc2zLKAjr2ayHEo/
-2SXSdTAamwyjZUit/8F0YnH1TE2OqSzcBbEtO6ge4TdOdruAutLyIr4kWIvqhxW+
-ekGXGW2qoyu1X1sEXPXJDoF51h516LmbFT96KsfANftThJDDwpQuPyiNbngPBVhF
-y+5Xh+ACYT/XR3rieK/I
-=Lrs3
+wsFcBAABCgAGBQJXkyrUAAoJEM9m0VPYhDWPBbYQAJxvCy82xW4i6mlnjen4VONL
+MvGGgR4T+BYb/Es0GpnJPcBQRLoHBdhjrLL2n+rvUlUyTr+BgxmaVWvBqH+vc4eJ
+NPNEfsv185HptQ6Xqz4ZUuWpCcc9eoDX15KKRCr3TeyFrmXp199X16teogbLgltJ
+3gjVPnPtDbUe0YMPibxO2ffy0kxC6GUhMzU7j7abH4dcXD8FlKveIzCa7CiuX0xy
+zYcCJHrsgMapbhcM2bT1Kgx35xFxWoQtCfjqGT0zn4zn+jpwlVpfp/nsgKGVcqnw
+Fp1HiNUzMF9b6mNuq00OmHkPSTmxj8zjhkB2M1dQxq5dxg/XEUkTgLYHcDm9AcoP
+BRDu+ogUZbeaBrL2U5UYrqyA7id/93l0/FUKuwYgP0Sdzp2tFolcqAvdt5/H0pFm
+TxYK+JY3ondmt9vMXXlm88UbrQx+xHKhlp4rCTiUQQo0N7BUZj8+k7SATrV7DtIG
+9ulAKcW+4Q5aSjX2Ym6ivmMU6qrduxqmKWEdHJ9J/AY+WFbW/yT4Y5cTTlGzSj5m
+O+hqwxtGP8TWk9THGo0JuZuk8bphLorMNx4OhXZ0tQDgPEzOyUBi2XwZmJQ6YJOS
+xPnh4I5cO1ZPIZyk0ebdOKbzRhICV+x5PKTpWVpby+Gl/SpaWGYakN6qAHXUuzNU
+ZhId7JLUiHycLXiOk5V5
+=QRGJ
 -----END PGP SIGNATURE-----
 ```
 
