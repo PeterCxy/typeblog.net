@@ -26,7 +26,7 @@
 
 ```json
 {
-  "server": "192.168.1.1",
+  "server": "192.168.1.100",
   "server_port": 6666,
   "local_port": 1080,
   "method": "chacha20",
