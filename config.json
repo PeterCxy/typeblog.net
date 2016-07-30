@@ -33,6 +33,7 @@
     "npm://typeblog-markdown"
   ],
   "posts": [
+    "posts/set-up-shadowsocks-with-iptables-and-ipset-on-archlinux.md",
     "posts/the-end-finally-ends.md",
     "posts/goodbye-ghost.md",
     "posts/how-should-we-be-lovers.md",
