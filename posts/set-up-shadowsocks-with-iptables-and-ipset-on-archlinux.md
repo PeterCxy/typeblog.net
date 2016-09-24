@@ -136,6 +136,7 @@ sudo EDITOR=vim systemctl edit shadowsocks-libev@config
 ```ini
 [Service]
 User=root
+CapabilityBoundingSet=~CAP_SYS_ADMIN
 ExecStart=
 ExecStartPre=/home/peter/shadowsocks/ss-up.sh
 ExecStart=/usr/bin/ss-redir -u -A -c /etc/shadowsocks/%i.json
@@ -157,3 +158,7 @@ systemctl enable shadowsocks-libev@config
 ```
 
 以上。
+
+修订:
+
+2016.9.24 由于 ArchLinux 更新，添加关于 CapabilityBoundingSet 的设定
