@@ -161,4 +161,4 @@ systemctl enable shadowsocks-libev@config
 
 修订:
 
-2016.9.24 由于 ArchLinux 更新，添加关于 CapabilityBoundingSet 的设定
+2016.9.24 - 由于 ArchLinux 更新，添加关于 CapabilityBoundingSet 的设定
