@@ -1,5 +1,6 @@
 {
   "title": "Typeblog",
+  "port": 2334,
   "description": "Thoughtcrime does not entail death, thoughtcrime IS death",
   "url": "https://typeblog.net",
   "template_arguments": {
