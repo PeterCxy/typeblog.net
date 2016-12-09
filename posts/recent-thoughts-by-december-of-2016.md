@@ -4,7 +4,7 @@
   "url": "recent-thoughts-by-december-of-2016",
   "date": "2016-12-07",
   "parser": "Markdown",
-  "cover": "https://oa3o2340x.qnssl.com/think.jpg",
+  "cover": "https://oa3o2340x.qnssl.com/think-1.jpg",
   "tags": ["Thoughts"]
 }
 ```
