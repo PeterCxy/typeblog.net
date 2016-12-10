@@ -30,6 +30,7 @@
 * [Farseerfc的小窝](https://farseerfc.me/zhs/)
 * [~~吃人的~~萌狼](https://blog.yoitsu.moe)
 * [~~萌萌的~~BroncoTc](https://blog.broncotc.com/)
+* [~~千千酱~~WWY'S BLOG](https://wwyqianqian.github.io/)
 
 ### 感谢
 
@@ -38,5 +39,4 @@
 * [Typeblog](https://github.com/PeterCxy/Typeblog)
 * ArchLinux
 * Qiniu
-* Hosted on LetBox with ArchLinux
 * (Some) Post photos from [Unsplash](https://unsplash.com/)
