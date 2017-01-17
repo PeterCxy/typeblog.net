@@ -34,6 +34,7 @@
     "npm://typeblog-markdown"
   ],
   "posts": [
+    "posts/to-me-when-i-was-twelve-years-old.md",
     "posts/some-little-more-time.md",
     "posts/recent-thoughts-by-december-of-2016.md",
     "posts/set-up-shadowsocks-with-iptables-and-ipset-on-archlinux.md",
