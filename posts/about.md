@@ -60,7 +60,7 @@ gpg --keyserver hkp://pgp.mit.edu --recv-key 708DFB13CBED9AB39449DBFB41C04120C29
 
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
+Hash: SHA256
 
 I hereby claim that
 
@@ -68,22 +68,20 @@ I hereby claim that
 2. I am PeterCxy on keybase.io
 3. I have a PGP key whose fingerprint is 708D FB13 CBED 9AB3 9449 DBFB 41C0 4120 C297 B594
 -----BEGIN PGP SIGNATURE-----
-Version: Keybase OpenPGP v2.0.53
-Comment: https://keybase.io/crypto
 
-wsFcBAABCgAGBQJXkyrUAAoJEM9m0VPYhDWPBbYQAJxvCy82xW4i6mlnjen4VONL
-MvGGgR4T+BYb/Es0GpnJPcBQRLoHBdhjrLL2n+rvUlUyTr+BgxmaVWvBqH+vc4eJ
-NPNEfsv185HptQ6Xqz4ZUuWpCcc9eoDX15KKRCr3TeyFrmXp199X16teogbLgltJ
-3gjVPnPtDbUe0YMPibxO2ffy0kxC6GUhMzU7j7abH4dcXD8FlKveIzCa7CiuX0xy
-zYcCJHrsgMapbhcM2bT1Kgx35xFxWoQtCfjqGT0zn4zn+jpwlVpfp/nsgKGVcqnw
-Fp1HiNUzMF9b6mNuq00OmHkPSTmxj8zjhkB2M1dQxq5dxg/XEUkTgLYHcDm9AcoP
-BRDu+ogUZbeaBrL2U5UYrqyA7id/93l0/FUKuwYgP0Sdzp2tFolcqAvdt5/H0pFm
-TxYK+JY3ondmt9vMXXlm88UbrQx+xHKhlp4rCTiUQQo0N7BUZj8+k7SATrV7DtIG
-9ulAKcW+4Q5aSjX2Ym6ivmMU6qrduxqmKWEdHJ9J/AY+WFbW/yT4Y5cTTlGzSj5m
-O+hqwxtGP8TWk9THGo0JuZuk8bphLorMNx4OhXZ0tQDgPEzOyUBi2XwZmJQ6YJOS
-xPnh4I5cO1ZPIZyk0ebdOKbzRhICV+x5PKTpWVpby+Gl/SpaWGYakN6qAHXUuzNU
-ZhId7JLUiHycLXiOk5V5
-=QRGJ
+iQIzBAEBCAAdFiEEmleE0pKdoIT2AVoIcfX7Tk8/1U8FAlh+qCwACgkQcfX7Tk8/
+1U/7KRAAgMQywAYxZFLxlR8SflvGClYPSpDKYSCIJlW1d16TstWwaWTxz1i65Sed
+LIMFihnjuIaYZ4P5nxoXhGh1GO7JcZAXjMbhXNkulmNbbixb4OPmAafxVIXrbLUY
+j9kMbW+vSWwKBjthmdFqccFEReidzwJy6y3mdgi12K0fgUc670sCZMLZxnEmXe0v
+EIir6chyLciPxKFJHb1jBBAIz7DI0Na6WJYlIVLPj8tfNHlk7wrfZ8dSGgWy6h+7
+ThVq+TBGukwr6nCpKldWpVwvMYE/p3Ij/pmCNf4/tD3BMk6XkD5A7fvw5Lhf84vq
+DC1G3ynSiEyoyKokjjO52lAG+rXor9yNVXiS1n9sw6UtnH2jTxKFtw3C6JFTkHo+
+33yaLT710TwZez8+0lbNrAFQnlvJAYvbuTHJVdjotiDs/bENzj/82W24zf972xKL
+4mSID02ZUN04bGW7PmJAX8f5QfnkFSq6Ci5Y/J941S34iY/iz4Td76YOsjgkM7Dv
+VJ3mhMeeEptIG1DYjdM3SDCa55cAs+wXpEu79NkfQluSNa4PvpZFgQ0xDcFE9Oca
+GoJQyIA+SLWoLikvF0wGMywcrM2re4ZRbM7i8nielRsVdlbfdH0Wns8PG+75thkt
+6zHx0yliTjPpnbM5du1jnPvwjJ2TcxMHEOlJ3heN/NH6CnyPUG8=
+=abkH
 -----END PGP SIGNATURE-----
 ```
 
@@ -91,29 +89,28 @@ ZhId7JLUiHycLXiOk5V5
 
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
+Hash: SHA256
+
 
 I hereby claim that:
 
 1. I am @PeterCxy on Telegram
 2. I am PeterCxy on keybase.io
-3. I have a PGP key whose fingerprint is 708D FB13 CBED 9AB3 9449 DBFB 41C0 4120 C297 B594 
+3. I have a PGP key whose fingerprint is 708D FB13 CBED 9AB3 9449 DBFB 41C0 4120 C297 B594
 -----BEGIN PGP SIGNATURE-----
-Version: Keybase OpenPGP v2.0.53
-Comment: https://keybase.io/crypto
 
-wsFcBAABCgAGBQJXbHpOAAoJEM9m0VPYhDWPilUP/264hgbLB5aS7AlxQwtzinGA
-HfKpIVSXQzDfCctwRJisIllhVtYbc1JTAtl9/eo6KdOudZAcPAQNhWhgMhO4YwQh
-nrJ6u3ZjfTqbxxsXpp1DYuyavT/jhufHOYn6N0yqCwGxK3G0CLeL/irqYZE9iVfn
-d6z64egnYnWJzjGWCZ8JLTt5emMXcPDi4pLnmQbx0LeaqYzdExakPIgMU6KDqTPb
-ITaschV8k5Q7V7RTXOCA1F5TGKcPX4sBEdDpvNYSp3g+sfS7j50SL/mvj6Kjwk7y
-QsFrCIsfkm732tE6CKo9ji384J5+3zfL7HD/CuBcyjTYUQGKSFn5rGTVhvCJtYMj
-lcAcqC3K238gBNET6Sr9JwlaZoaBhSoEWAH4cCQyxab/Y4Gfn/nRn4Bk5ntc+BIX
-aiRON8CFNqL9fgwagZ3en6T/toh26Q7s81R5j3oZovRSTI0zbF7m6MIr72MW7ABI
-zSfTlCyMM0HfbNgOnk5f/e6UrkQy4MhJEKsS1xxef98on2lUmxEV1l0xLEwx16qC
-IGHbKHXiVaHVcLEQMvtJCy8Yr+HdwupOGGtbxgUbCPjiTKXE3HGXgT7If2uUi/oj
-akbkxWXNc1SfgX4SVyPOCbzZQfP/XRSGBNI+se3LMiIUen0rzf+FJXLzBALTBEX6
-8F89+aTPuK0w7z3V8oqX
-=ocNP
+iQIzBAEBCAAdFiEEmleE0pKdoIT2AVoIcfX7Tk8/1U8FAlh+qHEACgkQcfX7Tk8/
+1U/+zg//bC6WDIPFqXw8HuaSvLTX7Vpm1bBcPhJaQjS+EUTvhqjVL95rCO93+mkn
+lX2PEnd3ccZpXRhNiNRqPl11DNRdfRL/VLtzfXh8r4tZBjbKcNHU+WySZV0r+EoA
+OXOkHazzkUiAVxzcAfCJ9VRVTmExZOoEjfscFLwa90QeWRiRZSqUrFahIAQNykfj
+eZXInjKb0O57ENsYpgCsm/+q/BZPM4cEQpE8MNumfzV+8rrcbDSz1QW3Qr2a+VsO
+Lu+vQxypBkgv9J2aWuMqV7o+ZdlqmLLCpBWAL4k1uSGzKGwy63GUAsxTYWd97sGK
+c1W2bmA1m4sr5LuR78UnmI/q86aPjnXVSMxdaKqfBbTIaT7atnlAVAvbqv8JigUI
+oipQ8KCp7Pl516iiw0/9A2mMThIbJDuPPl4zInZEHYsr6MDdEgIR/6jx+JERhjWG
+CZbE0+wHicVwuPV0RASjiT9xL0n1y+GZ7iuvJjSJfiAgeE5T+vCduQuUO42jjLHM
+ix3xg0phkhwAViUMk4bjGW+ixRZbxzSUUee8hwA8/HdJcETbY6YqoPiq4szi05cc
+60m12QrupSGmA2Ski58tGSi43MwfnchojqzaeWsnEBrGEIGc/zbVhJpPFfz1WhDG
+mpFrYdvwciubeih8XiBRuyv2chVqT6ndobyg6FesbKZW3A4sK9w=
+=TmIq
 -----END PGP SIGNATURE-----
 ```
