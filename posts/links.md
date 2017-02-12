@@ -20,7 +20,7 @@
 * [Touko's Diary](https://touko.moe)
 * [Fr0zenW0rld](https://bismarck.moe)
 * [REPO.MIND.CTH 451](https://cth451.tk)
-* [~~リア充の~~Whoops!](http://whoops.io/)
+* [~~リア充の~~Naïve Blog](https://blog.naïve.io/)
 * [Drakeet's](http://drakeet.me)
 * [Kaede's Studio](http://kaedea.com)
 * [XiNGRZ's](http://xingrz.me)
