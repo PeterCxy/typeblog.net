@@ -32,6 +32,7 @@
 * [~~萌萌的~~BroncoTc](https://blog.broncotc.com/)
 * [~~千千酱~~WWY'S BLOG](https://wwyqianqian.github.io/)
 * [~~五皇叔~~FiveYellowMice](https://fiveyellowmice.com/)
+* [明学的白板](https://ksmx.me/)
 
 ### 感谢
 

@@ -30,6 +30,8 @@
 
 在下面留言就可以了， __广告会被删除__
 
+交换友链的站点类型必须是博客，原创内容占90%或以上，并且 __必须全站强制HTTPS__
+
 ### 版权声明
 
 __除非特殊说明__，原创文章采用 [CC Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) 许可协议进行许可。然而，如果作品在中国大陆地区使用，则须采用 [CC Attribution-ShareAlike 3.0 China Mainland](https://creativecommons.org/licenses/by-sa/3.0/cn/) 许可协议。
