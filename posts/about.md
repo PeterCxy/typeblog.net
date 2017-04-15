@@ -42,7 +42,7 @@ __除非特殊说明__，原创文章采用 [CC Attribution-ShareAlike 4.0 Inter
 
 ### 关于评论
 
-本博客使用 [Disqus](https://disqus.com) 作为评论系统。
+本博客曾经使用 Disqus 作为评论系统，现在已经迁移到 [ISSO](https://posativ.org/isso/) （一个自搭建的 Disqus 开源替代）。
 
 ### PGP
 
