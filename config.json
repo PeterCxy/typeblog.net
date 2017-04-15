@@ -5,7 +5,11 @@
   "url": "https://typeblog.net",
   "template_arguments": {
     "cover": "https://o92gap2xr.qnssl.com/typeblog/content/images/2016/06/photo-1423592707957-3b212afa6733.jpg",
-    "disqus_username": "petercxy",
+    "isso": "https://typeblog.net/comments/typeblog/",
+    "isso-require-author": true,
+    "isso-require-email": true,
+    "isso-lang": "zh",
+    "isso-reply-to-self": true,
     "social": [
       {
         "url": "https://twitter.com/PeterCxy",
