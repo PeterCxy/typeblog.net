@@ -38,6 +38,7 @@
     "npm://typeblog-markdown"
   ],
   "posts": [
+    "posts/the-first-year-at-xjtlu.md",
     "posts/the-collapse-of-freedom.md",
     "posts/to-me-when-i-was-twelve-years-old.md",
     "posts/some-little-more-time.md",
