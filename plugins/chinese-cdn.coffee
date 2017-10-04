@@ -3,8 +3,8 @@
 class ChineseCDNPlugin extends Plugin
   transformRenderResult: ->
     return [false, (content) ->
-      content = content.replace /\/\/fonts\.googleapis\.com/g, '//fonts.css.network'
-            .replace /\/\/cdnjs\.cloudflare\.com\/ajax/g, '//cdn.css.net'
+      content = content.replace /\/\/fonts\.googleapis\.com/g, '//fonts.cat.net'
+            .replace /\/\/cdnjs\.cloudflare\.com\/ajax/g, '//cdnjs.cat.net'
             .replace /\/\/cdn\.materialdesignicons.com/g, '//o92gap2xr.qnssl.com/mdi'
 
       if process.env.NODE_ENV isnt 'debug'
