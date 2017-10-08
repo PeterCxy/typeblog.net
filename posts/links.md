@@ -10,12 +10,6 @@
 
 在互联网上，我不是孤单一个人。
 
-### 我的其他站点
-
-- [Angry.Im](https://angry.im) - An excited domain
-- [SN.Angry.Im](https://sn.angry.im) - A [Mastodon](https://github.com/tootsuite/mastodon) instance
-- [Lolicon.info](https://lolicon.info) - 并没有什么奇怪的东西
-
 ### 友情链接
 
 排名不分先后
