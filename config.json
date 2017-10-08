@@ -38,6 +38,7 @@
     "npm://typeblog-markdown"
   ],
   "posts": [
+    "posts/why-do-i-root-my-phone.md",
     "posts/the-first-year-at-xjtlu.md",
     "posts/the-collapse-of-freedom.md",
     "posts/to-me-when-i-was-twelve-years-old.md",
