@@ -290,7 +290,7 @@ __asm {
   ........
   lea   eax, arr[i * 4]
   push  eax
-  lea   eax, format
+  lea   eax, format2
   push  eax
   call  scanf
   add   esp, 8
