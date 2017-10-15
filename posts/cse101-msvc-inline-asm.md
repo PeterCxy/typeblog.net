@@ -239,23 +239,23 @@ __asm {
 }
 ```
 
-这个 k 就是当前循环的次数了。二是你只要对 `ecx` 进行一点简单的运算就可以
+这个 k 就是当前循环的次数了。另一个方法是你只要对 `ecx` 进行一点简单的运算就可以
 
 ```c
 int total;
 
 __asm {
   ........
-  mov   k, ecx // 把总循环次数保存下来
+  mov   total, ecx // 把总循环次数保存下来
   L1:
   push  ecx
   ........
   // 要用到当前循环次数的地方
   pop   ecx // 还原 ecx
   push  ecx // 赶紧把它保存回去，这时候 ecx 仍然是读出来的值
-  mov   eax, k
+  mov   eax, total
   sub   eax, ecx
-  add   eax, 1 // k - ecx + 1
+  add   eax, 1 // total - ecx + 1
   // 此时 eax 的值就是当前循环次数了
   ........
   pop   ecx
