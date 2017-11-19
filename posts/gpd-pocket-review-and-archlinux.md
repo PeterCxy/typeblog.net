@@ -88,7 +88,14 @@ emmm 开玩笑的。不过说了这么多，是时候安装 `ArchLinux` 了。�
 set-sink-port alsa_output.platform-cht-bsw-rt5645.HiFi__hw_chtrt5645__sink [Out] Speaker
 ```
 
-会导致 PulseAudio 直接启动不了。我直接删除了这一行，然后在桌面环境里选择默认输出，解决了这个问题。
+会导致 PulseAudio 直接启动不了。我直接删除了这一行，~~然后在桌面环境里选择默认输出，解决了这个问题。~~ 后来发现正确的配置应当是这样
+
+```
+set-card-profile alsa_card.platform-cht-bsw-rt5645 HiFi
+set-default-sink alsa_output.platform-cht-bsw-rt5645.HiFi__hw_chtrt5645_0__sink
+```
+
+以上内容添加进 `/etc/pulse/default.pa` 即可
 
 ArchLinux 默认安装的是主线内核。使用主线内核是可以正常启动 GPDP 的，大部分功能也是可用的，除了 亮度调节、蓝牙、电池充电状态 这些功能以外。另外，主线内核的音频还存在撕裂问题。要使用这些功能，你需要使用 `linux-jwrdegoede` —— 这是一个以前玩 `Allwinner` 的大佬做的内核，使用它的话几乎全部功能都正常（你需要学会如何给 ArchLinux 使用非默认内核，这个教程网上一大堆）。当然，蓝牙的话，需要手动载入一下 `btusb` 模块，编辑 `/etc/modules-load.d/` 里面的内容让它自动载入即可。
 
@@ -177,6 +184,33 @@ emm 还有几张和 XPS 的合照
 
 ![img_xps1](https://oa3o2340x.qnssl.com/gpd/IMG_20171117_203256.jpg)  
 ![img_xps2](https://oa3o2340x.qnssl.com/gpd/IMG_20171118_193917.jpg)
+
+### EDIT1: 蓝牙耳机
+
+之前蓝牙正常了一直没测试过，今天突然想起来测试一下蓝牙耳机是否可用，结果当然是 —— 默认配置下并不能工作。连接以后识别不出 A2DP，导致直接没办法输出音频……
+
+我首先按照各种奇奇怪怪的论坛上的说明在 `/etc/pulse/system.pa` 里加入了
+
+```
+load-module module-bluez5-device
+load-module module-bluez5-discover
+```
+
+然后按照 [ArchWiki](https://wiki.archlinux.org/index.php/Bluetooth_headset#A2DP_not_working_with_PulseAudio) 上的说明，我禁用了 `gdm` 开启的 `PulseAudio` （创建一个 `/var/lib/gdm/.config/systemd/user/pulseaudio.socket`，把它软链接到 `/dev/null` 即可），然后使用
+
+```bash
+bluetoothctl
+pair YOUR_HEADPHONE_MAC_ADDRESS
+connect YOUR_HEADPHONE_MAC_ADDRESS
+```
+
+手动连接。之后，使用 `pacmd ls` 查看你的蓝牙耳机的设备编号（假设它是 `INDEX`），然后执行
+
+```
+pacmd set-card-profile INDEX a2dp_sink
+```
+
+耳机就可用了。不过在这之后，每次连接的时候似乎都要重新连接几次并在 GNOME 的音频设置里手动选择耳机为音频设备以后才能使用…… 至少是能用啦。
 
 <style>
 img[alt*="img_"] {
