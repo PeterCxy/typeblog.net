@@ -15,6 +15,8 @@
 
 于是，这里是一个简单的评测和对我装 ArchLinux 过程中遇到的坑的记录。
 
+（本文有补充编辑的内容，可能下面提及的部分问题已经被我解决，如果想看请直接翻到最后。）
+
 ### 配置
 
 首先看一下它的配置。
@@ -145,7 +147,7 @@ gsettings set org.gnome.mutter experimental-features "['scale-monitor-framebuffe
 
 然后继续编辑 `~/.config/monitors.xml` 把 `<scale>` 那边的数值改成 1.5 之类的就可以了。不过这样设置以后部分界面会显得有点模糊，大概得等 GNOME 和软件开发者们修复 HiDPI 的问题了。有的软件也有自己的缩放设置，可能需要单独调节。另外推荐在 GNOME Tweak Tool 里把字体缩放也设置成 1.1 或者更大，这样看起来舒服一些。
 
-如果你想要把登录界面也转过来，你需要在 `/var/lib/gdm/.config/monitors.xml` 中键入同样的内容。不过我暂时没有找到让登录界面也使用分数缩放的方法，所以我直接让它两倍缩放了。
+如果你想要把登录界面也转过来，你需要在 `/var/lib/gdm/.config/monitors.xml` 中键入同样的内容。~~不过我暂时没有找到让登录界面也使用分数缩放的方法，所以我直接让它两倍缩放了。~~ 请看本文最后 EDIT 部分中让登录界面（GDM）也能分数缩放的方法。
 
 P.S. 我从奇怪的地方看见了下面这句东西
 
@@ -211,6 +213,51 @@ pacmd set-card-profile INDEX a2dp_sink
 ```
 
 耳机就可用了。不过在这之后，每次连接的时候似乎都要重新连接几次并在 GNOME 的音频设置里手动选择耳机为音频设备以后才能使用…… 至少是能用啦。
+
+### EDIT2: GDM 分数缩放
+
+```bash
+sudo machinectl gdm@
+gsettings set org.gnome.mutter experimental-features "['scale-monitor-framebuffer']"
+exit
+```
+
+以上命令会 __登录进__ gdm 用户并开启分数缩放功能。注意此处用 `sudo -u gdm` 或者 `su gdm` 是无效的。执行以后将 `/var/lib/gdm/.config/monitors.xml` 里面的 `<scale>` 设置为 1.5 然后重启即可。（如果没有这个文件，参考我上面的步骤，把自己用户目录下面的那个复制过去就好。）
+
+### EDIT2: 右键模拟鼠标滚动
+
+GPD Pocket 的指点杆不自带滚动功能，于是有人提出让它的右键变成一个模拟滚轮，也就是「按住右键并移动鼠标」这一动作来代替滚轮。
+
+这是在 `Xorg` 下面可以通过配置 `libinput` 实现的功能，然而在 `Wayland` 下得看 `compositor` 的脸色 —— 很不幸，GNOME 并没有提供这个功能，于是很长一段时间我认为这是不可能的，然后忍受着没有滚轮功能的指点杆。
+
+后来实在有点受不了，甚至试图修改内核来实现这个功能 —— 当然，因为不了解内核驱动，我瞎改了半天并没有起作用。后来晚上做梦的时候梦见了 `LD_PRELOAD`，突然惊醒，觉得我完全可以利用 `LD_PRELOAD` 来 hook 进 `libinput` 的函数，强行开启这个功能。
+
+花了不到一个小时研究了一下 `libinput` 和使用 `LD_PRELOAD` 的方法，写出了这么一个简单的小程序 <https://github.com/PeterCxy/scroll-emulation>，按照使用说明编译后加入 `LD_PRELOAD` 即可。
+
+基本原理是劫持桌面环境对 `libinput_device_get_name` 的调用，在返回之前使用这个指令序列
+
+```c
+libinput_device_config_middle_emulation_set_enabled(device, LIBINPUT_CONFIG_MIDDLE_EMULATION_ENABLED);
+libinput_device_config_scroll_set_method(device, LIBINPUT_CONFIG_SCROLL_ON_BUTTON_DOWN);
+libinput_device_config_scroll_set_button(device, 273);
+```
+
+对所有可以开启的设备开启 `libinput` 的中键滚动模拟功能。开启以后，即可使用「按住鼠标右键并移动鼠标」来模拟滚轮。
+
+### EDIT2: 键位调整
+
+GPD Pocket 上的键盘键位很谜，尤其是退格和 Delete 放在一起，以及那个超级小的大写锁定键。我本来也想通过 hook libinput 来解决，然而 `archlinux-cn-offtopic` 里的大佬给了我一个更好的解决方法，那就是使用 `udev` 自带的 `hwdb` 来修改 Keymap.
+
+简单研究了一下这玩意怎么用，写出了下面这个配置：
+
+```
+evdev:input:b0003v258Ap0111*
+ KEYBOARD_KEY_7004c=backspace
+ KEYBOARD_KEY_7002a=delete
+ KEYBOARD_KEY_70039=a
+```
+
+以上配置的作用是 1) 交换退格和删除键 2) 将大写锁定键去掉，改成另一个A键（大写锁定可以用按住 SHIFT 来代替）。将这个配置文件放在 `/etc/udev/hwdb.d/90-gpdp.hwdb` 即可。
 
 <style>
 img[alt*="img_"] {
