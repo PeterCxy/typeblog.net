@@ -34,7 +34,7 @@
 * [~~五皇叔~~FiveYellowMice](https://fiveyellowmice.com/)
 * [明学的白板](https://ksmx.me/)
 * [恋符~~by K司机~~](https://marisa-kirisa.me/)
-* [RockyLuo](https://www.akarin.top/)
+* [RockyLuo](https://www.akarin.moe/)
 * [虚空夏娜酱](https://void-shana.moe/)
 
 ### 感谢
