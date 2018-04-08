@@ -38,6 +38,7 @@
     "npm://typeblog-markdown"
   ],
   "posts": [
+    "posts/tried-systemd-nspawn.md",
     "posts/gpd-pocket-review-and-archlinux.md",
     "posts/cse101-msvc-inline-asm.md",
     "posts/why-do-i-root-my-phone.md",
