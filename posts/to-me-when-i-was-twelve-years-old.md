@@ -4,7 +4,7 @@
   "url": "to-me-when-i-was-twelve-years-old",
   "date": "2017-01-17",
   "parser": "Markdown",
-  "cover": "https://oa3o2340x.qnssl.com/time-1.jpg",
+  "cover": "https://files.typeblog.net/blog/time-1.jpg",
   "tags": ["Thoughts"]
 }
 ```

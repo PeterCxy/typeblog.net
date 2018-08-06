@@ -4,7 +4,7 @@
   "url": "why-do-i-insist-on-blogging",
   "date": "2016-05-01",
   "parser": "Markdown",
-  "cover": "https://o92gap2xr.qnssl.com/typeblog/content/images/2016/05/photo-1455390582262-044cdead277a.jpg"
+  "cover": "https://files.typeblog.net/blog/legacy/images/2016/05/photo-1455390582262-044cdead277a.jpg"
 }
 ```
 

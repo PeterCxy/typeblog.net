@@ -4,7 +4,7 @@
   "url": "the-first-year-at-xjtlu",
   "date": "2017-06-11",
   "parser": "Markdown",
-  "cover": "https://oa3o2340x.qnssl.com/xjtlu.jpg",
+  "cover": "https://files.typeblog.net/blog/xjtlu.jpg",
   "tags": ["Life"]
 }
 ```

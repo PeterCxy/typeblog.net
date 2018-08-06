@@ -4,7 +4,7 @@
   "url": "the-collapse-of-freedom",
   "date": "2017-02-07",
   "parser": "Markdown",
-  "cover": "https://oa3o2340x.qnssl.com/sea-1.jpg",
+  "cover": "https://files.typeblog.net/blog/sea-1.jpg",
   "tags": ["Thoughts", "Movie"]
 }
 ```

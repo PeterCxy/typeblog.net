@@ -4,7 +4,7 @@
   "url": "why-do-i-root-my-phone",
   "date": "2017-10-08",
   "parser": "Markdown",
-  "cover": "https://oa3o2340x.qnssl.com/phone.jpg",
+  "cover": "https://files.typeblog.net/blog/phone.jpg",
   "tags": ["Life", "Tech", "Thoughts"]
 }
 ```

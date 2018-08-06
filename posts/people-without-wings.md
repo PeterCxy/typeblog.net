@@ -9,8 +9,8 @@
 
 事情是这样的，今天微博时间流里出现了一个名叫『崇才科技』的自称『第一00后团队』的公司。光是看这条消息，吾辈就被吓了一大跳。于是我随便下载了个他们 [网站](http://chongcai.isitestar.cn) 上贴出来的『得意之作』
 
-![TinyEye1](https://o92gap2xr.qnssl.com/typeblog/content/images/2016/02/Screenshot_20160212-180436.png)
-![TinyEye2](https://o92gap2xr.qnssl.com/typeblog/content/images/2016/02/Screenshot_20160212-180633-1.png)
+![TinyEye1](https://files.typeblog.net/blog/legacy/images/2016/02/Screenshot_20160212-180436.png)
+![TinyEye2](https://files.typeblog.net/blog/legacy/images/2016/02/Screenshot_20160212-180633-1.png)
 
 唔，吓尿了。当然，`BeetMan` 同学已经在 [这里](https://wasu.pw/XgEv) 抢先于我吐槽过了，我呢，只是想再说两句。
 

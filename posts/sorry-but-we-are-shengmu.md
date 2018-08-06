@@ -4,7 +4,7 @@
   "url": "sorry-but-we-are-shengmu",
   "date": "2016-03-14",
   "parser": "Markdown",
-  "cover": "https://o92gap2xr.qnssl.com/typeblog/content/images/2016/05/photo-1456374407032-6e4baf58fb62.jpg",
+  "cover": "https://files.typeblog.net/blog/legacy/images/2016/05/photo-1456374407032-6e4baf58fb62.jpg",
   "tags": ["Life", "Thoughts", "Freedom"]
 }
 ```

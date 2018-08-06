@@ -9,7 +9,7 @@
 
 大年三十高高兴兴刷微博，却被一条评论弄得兴致全无
 
-![wtf](https://o92gap2xr.qnssl.com/typeblog/content/images/2016/02/Screenshot_20160207-223257.png)
+![wtf](https://files.typeblog.net/blog/legacy/images/2016/02/Screenshot_20160207-223257.png)
 
 其实这PO只是吐槽了一下今年春晚上出现的几个问题，还没有其他人喷的厉害，却招来了这样一批人。当然，我随便戳开了他们的微博看看，发现都是某男子三人组合的粉丝，那么这也就不奇怪了。
 
@@ -23,7 +23,7 @@
 
 于是我随便查了一下正能量
 
-![positive-energy](https://o92gap2xr.qnssl.com/typeblog/content/images/2016/02/Screenshot_20160207-232219.png)
+![positive-energy](https://files.typeblog.net/blog/legacy/images/2016/02/Screenshot_20160207-232219.png)
 
 正能量是什么？Google说，是乐观，是积极，是一种心态。
 

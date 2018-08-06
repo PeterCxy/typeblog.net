@@ -4,7 +4,7 @@
   "url": "letsencrypt-sh-plus-nginx",
   "date": "2016-05-30",
   "parser": "Markdown",
-  "cover": "https://o92gap2xr.qnssl.com/typeblog/content/images/2016/05/Internet2.jpg",
+  "cover": "https://files.typeblog.net/blog/legacy/images/2016/05/Internet2.jpg",
   "tags": ["Tech", "Linux", "Security"]
 }
 ```

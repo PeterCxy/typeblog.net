@@ -5,7 +5,7 @@
   "date": "2016-7-20",
   "parser": "Markdown",
   "tags": ["Life"],
-  "cover": "https://oa3o2340x.qnssl.com/schooldays.jpg"
+  "cover": "https://files.typeblog.net/blog/schooldays.jpg"
 }
 ```
 

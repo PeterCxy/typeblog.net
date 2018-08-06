@@ -4,7 +4,7 @@
   "url": "how-should-we-be-lovers",
   "date": "2016-06-22",
   "parser": "Markdown",
-  "cover": "https://o92gap2xr.qnssl.com/typeblog/content/images/2016/06/lovers-1.jpg",
+  "cover": "https://files.typeblog.net/blog/legacy/images/2016/06/lovers-1.jpg",
   "tags": ["Thoughts"]
 }
 ```

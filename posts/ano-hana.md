@@ -4,7 +4,7 @@
   "url": "ano-hana",
   "date": "2016-06-12",
   "parser": "Markdown",
-  "cover": "https://o92gap2xr.qnssl.com/typeblog/content/images/2016/06/flower.jpg",
+  "cover": "https://files.typeblog.net/blog/legacy/images/2016/06/flower.jpg",
   "tags": ["Life", "Thoughts"]
 }
 ```

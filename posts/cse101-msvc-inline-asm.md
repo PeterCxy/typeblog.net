@@ -4,7 +4,7 @@
   "url": "cse101-msvc-inline-asm",
   "date": "2017-10-15",
   "parser": "Markdown",
-  "cover": "https://oa3o2340x.qnssl.com/programming.jpg",
+  "cover": "https://files.typeblog.net/blog/programming.jpg",
   "tags": ["Tech"]
 }
 ```

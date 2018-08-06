@@ -4,7 +4,7 @@
   "url": "we-need-not-sympathy",
   "date": "2016-05-15",
   "parser": "Markdown",
-  "cover": "https://o92gap2xr.qnssl.com/typeblog/content/images/2016/06/photo-1444167827109-712640e22c8e.jpg"
+  "cover": "https://files.typeblog.net/blog/legacy/images/2016/06/photo-1444167827109-712640e22c8e.jpg"
 }
 ```
 

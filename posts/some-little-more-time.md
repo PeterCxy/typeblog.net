@@ -4,7 +4,7 @@
   "url": "some-little-more-time",
   "date": "2016-12-18",
   "parser": "Markdown",
-  "cover": "https://oa3o2340x.qnssl.com/your-name.jpg",
+  "cover": "https://files.typeblog.net/blog/your-name.jpg",
   "tags": ["Life", "Thoughts"]
 }
 ```

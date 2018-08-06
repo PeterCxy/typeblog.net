@@ -4,7 +4,7 @@
   "url": "gpd-pocket-review-and-archlinux",
   "date": "2017-11-18",
   "parser": "Markdown",
-  "cover": "https://oa3o2340x.qnssl.com/gpd/IMG_20171118_193751.jpg",
+  "cover": "https://files.typeblog.net/blog/gpd/IMG_20171118_193751.jpg",
   "tags": ["Tech"]
 }
 ```
@@ -40,7 +40,7 @@
 
 拿到手的第一感觉是这个东西真的很精致。7 英寸的身体看起来很娇小，但是拿在手里又感觉非常结实。重量 480g 可以算是一款比较轻便的设备了，装在口袋里也不显得比较沉，而且它 __确实__ 可以装进口袋里，是名副其实的「Pocket Device」。
 
-![img_1](https://oa3o2340x.qnssl.com/gpd/IMG_20171118_194005.jpg)
+![img_1](https://files.typeblog.net/blog/gpd/IMG_20171118_194005.jpg)
 
 铝制的外壳看起来则非常 MacBook，正如大部分评测里所说的一样。我不想评价这是不是好事，我只能说这个外壳的手感算是我碰过的设备里最好的一个。而这块 IPS 屏幕则绝对是一个惊喜 —— 颜色非常正，没有坏点，也没有漏光问题。7吋的 1920x1200 屏幕看起来非常清晰（当然，这也导致了之后运行 Linux 的时候遇到的一些问题）。整个屏幕看起来的舒适程度要胜过我的 XPS15。当然，我手上的这台 XPS15 的屏幕有几个坏点，而且不属于 HiDPI 范围，似乎也没有什么可比较的……这里有一点要吐槽的是官方送的那一块贴膜的 __正反面标反了__，直接导致我把那块贴膜给贴废了……从其他几位用户那里得知这似乎是普遍情况，请各位想要购买的朋友注意了。
 
@@ -64,7 +64,7 @@
 
 作为一个（伪）音乐爱好者，我也尝试了使用这个东西作为 MIDI 合成器，结果是几乎完美。只是扬声器比较烂，需要自己插耳机解决 :(
 
-![img_midi](https://oa3o2340x.qnssl.com/gpd/IMG_20171118_124805.jpg)
+![img_midi](https://files.typeblog.net/blog/gpd/IMG_20171118_124805.jpg)
 
 也算是终于不用拖老远的线把它接到我的笔记本电脑上了（这个键盘附近已经放不下我的大 XPS 了）
 
@@ -184,8 +184,8 @@ __缺点__:
 
 emm 还有几张和 XPS 的合照
 
-![img_xps1](https://oa3o2340x.qnssl.com/gpd/IMG_20171117_203256.jpg)  
-![img_xps2](https://oa3o2340x.qnssl.com/gpd/IMG_20171118_193917.jpg)
+![img_xps1](https://files.typeblog.net/blog/gpd/IMG_20171117_203256.jpg)  
+![img_xps2](https://files.typeblog.net/blog/gpd/IMG_20171118_193917.jpg)
 
 ### EDIT1: 蓝牙耳机
 

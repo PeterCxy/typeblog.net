@@ -3,7 +3,7 @@
   "title": "再见，Ghost",
   "url": "goodbye-ghost",
   "date": "2016-07-11",
-  "cover": "https://oa3o2340x.qnssl.com/journey.jpg",
+  "cover": "https://files.typeblog.net/blog/journey.jpg",
   "tags": ["Tech", "Blog"],
   "parser": "Markdown"
 }

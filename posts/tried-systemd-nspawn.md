@@ -4,7 +4,7 @@
   "url": "tried-systemd-nspawn",
   "date": "2018-04-08",
   "parser": "Markdown",
-  "cover": "https://oa3o2340x.qnssl.com/containers.jpg",
+  "cover": "https://files.typeblog.net/blog/containers.jpg",
   "tags": ["Tech"]
 }
 ```

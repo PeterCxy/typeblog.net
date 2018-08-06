@@ -135,7 +135,7 @@ rrdtool graph $GRAPH -w 700 -h 300 --start -5h \
 
 ### 效果
 
-![peter-ss](https://o92gap2xr.qnssl.com/typeblog/content/images/2016/01/peter-ss.png)
+![peter-ss](https://files.typeblog.net/blog/legacy/images/2016/01/peter-ss.png)
 
 这是我用上面的方法统计得到的阿里云中转的 `shadowsocks` 流量。
 
@@ -143,7 +143,7 @@ rrdtool graph $GRAPH -w 700 -h 300 --start -5h \
 
 使用类似的方法，我们还可以统计得到某服务器到另一服务器的 `ping` 延迟和丢包率图。不过，这种情况下，我们就不能像上面一样使用 `COUNTER` 数据类型加上 `AVERAGE` 这个统计方法，而是应该使用 `GAUGE` 数据类型加上 `LAST` 统计。在绘图的时候，你还需要通过 `--right-axis` 系列参数创建一个对应的第二个y轴，以显示丢包率的数据轴，具体效果：
 
-![ping](https://o92gap2xr.qnssl.com/typeblog/content/images/2016/01/ping.png)
+![ping](https://files.typeblog.net/blog/legacy/images/2016/01/ping.png)
 
 这是我统计得到的阿里云青岛节点到 `ConoHa` 日本节点的数据。
 

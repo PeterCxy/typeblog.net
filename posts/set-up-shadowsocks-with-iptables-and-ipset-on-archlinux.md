@@ -1,7 +1,7 @@
 ```json
 {
   "title": "在 ArchLinux 上配置 shadowsocks + iptables + ipset 实现自动分流",
-  "cover": "https://oa3o2340x.qnssl.com/wall.jpg",
+  "cover": "https://files.typeblog.net/blog/wall.jpg",
   "url": "set-up-shadowsocks-with-iptables-and-ipset-on-archlinux",
   "date": "2016-07-30",
   "parser": "Markdown",
