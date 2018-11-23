@@ -14,6 +14,7 @@
 
 排名不分先后
 
+* [Amane Tobiichi ~~雨音姐姐w~~](https://amane.live)
 * [比尔盖子的博客](https://biergaizi.info)
 * [烧饼的小窝](http://feng.moe)
 * [Leaf's Life](https://harrychen.xyz)
