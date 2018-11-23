@@ -15,6 +15,7 @@
 排名不分先后
 
 * [余忆留声机 ~~是雨音姐姐w~~](https://amane.live)
+* [漩涡老师](https://xuanwo.io)
 * [比尔盖子的博客](https://biergaizi.info)
 * [烧饼的小窝](http://feng.moe)
 * [Leaf's Life](https://harrychen.xyz)
