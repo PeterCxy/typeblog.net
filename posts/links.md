@@ -14,8 +14,8 @@
 
 排名不分先后
 
-* [余忆留声机 ~~是雨音姐姐w (a.k.a 皮穿刺)~~](https://amane.live)
-* [艾雨寒 ~~雨音姐姐CP~~](https://axionl.me/)
+* ~~余忆留声机~~ 夢だった
+* [艾雨寒](https://axionl.me/)
 * [漩涡老师](https://xuanwo.io)
 * [Megumi\_Fox ~~自称新人但是很快融入群体的谜之惠老师~~](https://blog.megumifox.com/)
 * [比尔盖子的博客](https://biergaizi.info)
