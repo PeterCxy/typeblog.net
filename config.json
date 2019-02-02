@@ -28,6 +28,10 @@
       {
         "label": "Links",
         "url": "/links/"
+      },
+      {
+        "label": "English",
+        "url": "https://en.typeblog.net/"
       }
     ]
   },
