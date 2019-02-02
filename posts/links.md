@@ -47,5 +47,5 @@
 * Node.js
 * [Typeblog](https://github.com/PeterCxy/Typeblog)
 * ArchLinux
-* Qiniu
+* Minio
 * (Some) Post photos from [Unsplash](https://unsplash.com/)
