@@ -5,7 +5,7 @@
   "url": "https://typeblog.net",
   "template_arguments": {
     "cover": "https://files.typeblog.net/blog/legacy/images/2016/06/photo-1444167827109-712640e22c8e.jpg",
-    "isso": "https://typeblog.net/comments/typeblog/",
+    "isso": "https://typeblog.net/comments/",
     "isso-require-author": true,
     "isso-require-email": true,
     "isso-lang": "zh",
