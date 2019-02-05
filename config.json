@@ -42,6 +42,7 @@
     "npm://typeblog-markdown"
   ],
   "posts": [
+    "posts/blogging-with-standardnotes.md",
     "posts/tried-systemd-nspawn.md",
     "posts/gpd-pocket-review-and-archlinux.md",
     "posts/cse101-msvc-inline-asm.md",
