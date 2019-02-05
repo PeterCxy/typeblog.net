@@ -1,10 +1,10 @@
 ```json
 {
     "title": "重新开始博客: 使用 StandardNotes",
-	"url": "blogging-with-standardnotes",
-	"date": "2019-02-05",
-	"parser": "Markdown",
-	"cover": "https://files.typeblog.net/blog/blogging-with-standardnotes.jpg"
+    "url": "blogging-with-standardnotes",
+    "date": "2019-02-05",
+    "parser": "Markdown",
+    "cover": "https://files.typeblog.net/blog/blogging-with-standardnotes.jpg"
 }
 ```
 
