@@ -88,7 +88,7 @@
 
 总之，这就是我的新的博客 workflow，也希望我在这篇文章之后能告别咕咕咕……
 
-### Footnotes
+### <a name="Footnotes"></a> 脚注
 
 1. Standard Notes 背后的 Standard Files 协议本身经过了一次 Security Audit，但是其具体客户端实现并没有；这个协议也确实还有一些可以发现的问题；不过 Standard Files 至少本身是 self-hosted，协议也基本上都按照正常的 security practice 在做，不像某 T 开头的聊天工具
 2. 使用扩展会带来更高的安全风险，这是可以预料的，__尤其是编辑器类的扩展__，好在扩展有 iframe 隔离并且必须显式声明权限
