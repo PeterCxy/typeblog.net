@@ -42,6 +42,7 @@
     "npm://typeblog-markdown"
   ],
   "posts": [
+    "posts/nobody-can-protect-your-privacy-except-yourself.md",
     "posts/blogging-with-standardnotes.md",
     "posts/tried-systemd-nspawn.md",
     "posts/gpd-pocket-review-and-archlinux.md",
